@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tescaligh.github.io/sitemap.html.gz
+Sitemap: https://tescaligh.github.io/app/sitemap.html.gz
+Sitemap: https://tescaligh.github.io/assets/sitemap.html.gz
+Sitemap: https://tescaligh.github.io/css/sitemap.html.gz
+Sitemap: https://tescaligh.github.io/includes/sitemap.html.gz
+Sitemap: https://tescaligh.github.io/item/sitemap.html.gz
+Sitemap: https://tescaligh.github.io/src/sitemap.html.gz
